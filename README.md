@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Keshav Kumar
 
-<img src="https://raw.githubusercontent.com/keshavkumar/keshavkumar/main/assets/banner.png" alt="Keshav's Banner" width="100%" />
+<img src="[https://raw.githubusercontent.com/keshavkumar/keshavkumar/main/assets/banner.png](https://github.com/ultkeshav/ultkeshav/blob/main/assets/401721.jpg)" alt="Keshav's Banner" width="100%" />
 
 🎓 I'm a Computer Science student  
 💻 I build modern Android apps using **Kotlin** and **Jetpack Compose**  
