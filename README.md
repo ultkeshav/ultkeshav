@@ -22,4 +22,4 @@
 ## 📫 Connect with me
 
 - [LinkedIn](www.linkedin.com/in/ultkeshav7)
-- [Twitter](https://twitter.com/yourusername)
+- [Twitter](https://x.com/kumarkeshav45)
